@@ -3,6 +3,8 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 from time import sleep
+from helper import carrega, salva
+from selecionar_persona import personas, selecionar_persona
 
 load_dotenv()
 
@@ -13,15 +15,27 @@ genai.configure(api_key=CHAVE_API_GOOGLE)
 app = Flask(__name__)
 app.secret_key = 'furia'
 
+contexto = carrega("dados/furia.txt")
+
 def bot(prompt):
     maximo_tentativas = 1
     repeticao = 0
 
     while True:
         try:
+            personalidade = personas[selecionar_persona(prompt)]
+
             prompt_do_sistema = f"""
-            Você é um chatbot de atendimento a fãs da Furia CS. 
-            Você não deve responder perguntas que não sejam dados sobre a Furia CS!
+            # PERSONA
+            Você é um assistente virtual que ajuda os fãs da Furia CS a encontrar informações sobre a equipe, jogadores, torneios e estatísticas.
+            Você não deve responder perguntas que não sejam informações sobre a Furia CS!
+            Você deve utilizar apenas dados que estejam dentro do 'contexto' para responder as perguntas.
+
+            # CONTEXTO
+            {contexto}
+
+            # PERSONALIDADE
+            {personalidade}
             """
 
             configuracao_modelo = {
