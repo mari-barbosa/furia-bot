@@ -27,6 +27,7 @@ Caso queira rodar a aplicação localmente, siga os passos abaixo:
    git clone https://github.com/mari-barbosa/furia-bot
 
 2. Entre no diretório clonado
-    ``` cd furia-bot
+    ```bash
+    cd furia-bot
 
 3. Certifique-se de ter o Python instalado (versão 3.8 ou superior) e o Git configurado em sua máquina
