@@ -5,7 +5,7 @@ import os
 load_dotenv()
 
 CHAVE_API_GOOGLE = os.getenv("GEMINI_API_KEY")
-MODELO_ESCOLHIDO = "gemini-2.5-pro-exp-03-25"   
+MODELO_ESCOLHIDO = "gemini-2.0-flash"   
 genai.configure(api_key=CHAVE_API_GOOGLE)
 
 personas ={

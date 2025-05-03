@@ -97,7 +97,7 @@ def bot(prompt):
                 os.remove(caminho_imagem_enviada)
                 caminho_imagem_enviada = None
                 
-            sleep(50)
+            sleep(5)
 
 @app.route("/upload_imagem", methods=["POST"])
 def upload_imagem():
