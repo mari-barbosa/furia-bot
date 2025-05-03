@@ -1,32 +1,22 @@
 ## Dados Furia CS
 
-Nome do Time: Furia CS
-
 Hastag padrao: #GoFuria; #DIADEFURIA
 
 1. Line atual:
-    FalleN (Gabriel Toledo): Rifler e In-Game Leader (capitão). Recentemente, FalleN tem focado mais na função de IGL e atuado como rifler, adaptando seu estilo de jogo.
-    
-    kscerato (Kaike Cerato): Rifler. Conhecido por sua mira apurada e capacidade de decisão em momentos cruciais, atua classicamente como rifler estrela da equipe.
-    
-    yuurih (Yuri Santos): Rifler. Outro jogador com grande habilidade individual e agressividade controlada, complementa o poder de fogo do time como rifler.
-   
+    FalleN (Gabriel Toledo): Rifler e In-Game Leader (capitão).
+    kscerato (Kaike Cerato): Rifler.
+    yuurih (Yuri Santos): Rifler
     molodoy (Danil Golubenko): AWPer. É a adição mais recente e assume a função primária de AWPer da equipe.
-    
-    YEKINDAR (Mareks Gaļinskis): Stand-in / Rifler (Entry Fragger). Conhecido por seu estilo de jogo extremamente agressivo e por ser um entry fragger de impacto, YEKINDAR está atuando temporariamente como stand-in.     
+    YEKINDAR (Mareks Gaļinskis): Stand-in / Rifler (Entry Fragger).
 
 O coach da equipe é sidde (Sidnei Macedo), com Hepa (Juan Borges) como coach assistente.
 
 2. Últimos títulos:
-Embora a FURIA tenha participado de diversos campeonatos importantes recentemente, um "título" de grande expressão nos últimos meses que se destaca é o BetBoom Dacha Belgrade 2024 #2 (Group Stage), onde conquistaram o 1º lugar em seu grupo.
+BetBoom Dacha Belgrade 2024 #2 (Group Stage), onde conquistaram o 1º lugar em seu grupo.
 
-É importante notar que a equipe tem alcançado boas colocações em outros torneios de prestígio, como:
-
-    3º-4º lugar na IEM Rio 2024
-    3º-4º lugar na YaLLa Compass 2024
-    2º lugar na CCT Season 2 European Series #4
-
-Esses resultados indicam a competitividade da equipe no cenário internacional, mesmo que não sejam considerados títulos de campeonatos de tier S.
+3º-4º lugar na IEM Rio 2024
+3º-4º lugar na YaLLa Compass 2024
+2º lugar na CCT Season 2 European Series #4
 
 3. Últimos jogos:
  FURIA CS tem uma agenda movimentada de partidas. Abaixo estão os resultados de alguns dos jogos mais recentes da equipe em torneios importantes:
@@ -35,59 +25,19 @@ Esses resultados indicam a competitividade da equipe no cenário internacional, 
     08/04/2025: FURIA 0 vs 2 Virtus.pro (PGL Bucharest 2025)
     07/04/2025: FURIA 1 vs 2 Complexity (PGL Bucharest 2025)
     06/04/2025: FURIA 2 vs 0 Apogee (PGL Bucharest 2025)
-    22/03/2025: M80 2 vs 1 FURIA (BLAST Open Spring 2025)
-    20/03/2025: Natus Vincere 2 vs 0 FURIA (BLAST Open Spring 2025)
-    10/03/2025: Falcons 2 vs 1 FURIA (ESL Pro League Season 21: Stage 2)
-    09/03/2025: FURIA 2 vs 1 MIBR (ESL Pro League Season 21: Stage 2)
-    08/03/2025: Team Liquid 2 vs 0 FURIA (ESL Pro League Season 21: Stage 2)
-    07/03/2025: MOUZ 2 vs 1 FURIA (ESL Pro League Season 21: Stage 2)
-    05/03/2025: FURIA 2 vs 1 M80 (ESL Pro League Season 21: Stage 1)
-    04/03/2025: FURIA 2 vs 1 NRG (ESL Pro League Season 21: Stage 1)
-    03/03/2025: FURIA 0 vs 2 MIBR (ESL Pro League Season 21: Stage 1)
-    02/03/2025: FURIA 1 vs 2 SAW (ESL Pro League Season 21: Stage 1)
-    01/03/2025: FURIA 2 vs 0 LVG (ESL Pro League Season 21: Stage 1)
-    03/02/2025: Astralis 2 vs 1 FURIA (Intel Extreme Masters Katowice 2025)
-    01/02/2025: Natus Vincere 2 vs 0 FURIA (Intel Extreme Masters Katowice 2025)
-    31/01/2025: FURIA 2 vs 1 Wildcard (Intel Extreme Masters Katowice 2025)
-    29/01/2025: FURIA 2 vs 0 Imperial Fe (Intel Extreme Masters Katowice 2025)
 
-4. Contato inteligente da Furia:
-    Agora a Furia tem um bot inteligente também no Whatsapp (atualmente em closed beta) que pode ser acessado através do link:  https://wa.me/5511993404466
-
-5. Próximos jogos:
+4. Próximos jogos:
     Os próximos compromissos confirmados da FURIA em grandes campeonatos incluem:
 
     PGL Astana 2025: Previsto para ocorrer de 10 a 18 de maio de 2025.
     IEM Dallas 2025: Agendado para acontecer de 18 a 24 de maio de 2025.
     BLAST.tv Austin Major 2025: Com etapas previstas para junho de 2025.
 
-As datas e horários específicos dos jogos dentro desses torneios serão definidos conforme a progressão da equipe nas competições.
-
-6. Informações relevantes adicionais:
+4. Informações relevantes adicionais:
 
 Internacionalização do elenco: A FURIA tem buscado se tornar uma equipe mais internacional, o que se reflete nas recentes contratações de molodoy (cazaque) e a adição de YEKINDAR (letão) como stand-in. Esta movimentação visa adicionar novas perspectivas táticas e talentos ao time.
 
-Comunicação em inglês: Como consequência da internacionalização, a comunicação dentro da equipe passou a ser feita em inglês.
-
 Mudanças recentes no elenco: As chegadas de molodoy e YEKINDAR ocorreram após as movimentações de chelo e skullz para o banco de reservas, indicando uma reestruturação no time para buscar melhores resultados.
-
-Nova função de FalleN: Uma mudança significativa foi a transição de FalleN para a função de In-Game Leader e rifler, deixando a posição principal de AWPer, que agora é ocupada por molodoy. Esta mudança tática busca otimizar o desempenho da equipe.
-
-Base de fãs "Furiosos": A FURIA conta com uma das maiores e mais apaixonadas bases de fãs no cenário de esports, conhecidos como "Furiosos", que acompanham e apoiam a equipe em todas as competições.
 
 7. RESULTADO DA ÚLTIMA PARTIDA:
 A última partida da FURIA no Counter-Strike foi em 9 de abril de 2025, contra a equipe The MongolZ, válida pela PGL Bucharest 2025. A FURIA acabou sendo derrotada por 2 mapas a 0, com parciais de 9-13 na Mirage e 11-13 na Nuke.
-
-Confira as estatísticas individuais dos jogadores da FURIA nesta partida:
-
-    yuurih: 37 abates e 33 mortes (K-D: +4), 101.0 de Dano Médio por Rodada (ADR), 78.3% KAST (Porcentagem de Rodadas com Kill, Assistência, Sobrevivência ou Trade), 1.25 de Rating.
-    
-    KSCERATO: 40 abates e 34 mortes (K-D: +6), 80.1 de ADR, 76.1% KAST, 1.10 de Rating.
-    
-    chelo: 24 abates e 35 mortes (K-D: -11), 56.8 de ADR, 67.4% KAST, 0.81 de Rating. (Importante notar que chelo estava no elenco nesta partida, antes da recente adição de molodoy e YEKINDAR e mudanças de função).
-    
-    skullz: 21 abates e 32 mortes (K-D: -11), 60.3 de ADR, 63.0% KAST, 0.73 de Rating. (skullz também estava no elenco nesta partida e posteriormente foi movido para o banco).
-    
-    FalleN: 22 abates e 31 mortes (K-D: -9), 52.7 de ADR, 65.2% KAST, 0.73 de Rating.
-
-As estatísticas da equipe adversária, The MongolZ, foram superiores no geral, refletindo o resultado da partida. Destaque para mzinho, que teve um Rating de 1.45.
