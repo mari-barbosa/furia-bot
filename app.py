@@ -8,6 +8,7 @@ from selecionar_persona import personas, selecionar_persona
 from gerenciar_historico import remover_mensagens_mais_antigas
 import uuid 
 from gerenciar_imagem import gerar_imagem_gemini
+import time
 
 load_dotenv()
 
@@ -82,7 +83,11 @@ def bot(prompt):
                 os.remove(caminho_imagem_enviada)
                 caminho_imagem_enviada = None
             else:
+                inicio = time.time()
                 resposta = chatbot.send_message(mensagem_usuario)
+                fim = time.time()
+                tempo_resposta = fim - inicio
+                print(f"Tempo de resposta da API: {tempo_resposta:.4f} segundos")
 
             if len(chatbot.history) > 10:
                 chatbot.history = remover_mensagens_mais_antigas(chatbot.history)
